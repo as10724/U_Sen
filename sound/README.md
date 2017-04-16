@@ -2,8 +2,6 @@
 
 ## Author: Avikal Somvanshi (as10724)
 
-### Assignment Task
-
 This lecture introduces students to the fundamentals and application of sensing urban sound.
 
 Gathering and making use of data from these environments requires knowledge of real-time data acquisition techniques and considerations when capturing and visualizing acoustic data. Time and frequency domain visualization approaches will be introduced, facilitated by a data collection initiative based around a “smart” sound sensing tool.
@@ -14,7 +12,7 @@ Prerequisites
 * Visualization and handling of large datasets
 * Basic understanding of multithreaded scripting
 
-Assignment
+### Assignment Task
 
 Using the audio_record.py script, monitor the sound environment from the window of your apartment for around an hour.
 
@@ -26,13 +24,13 @@ You need to provide a paragraph or two on the context around the measurement pro
 
 You can email me at: cmydlarz@nyu.edu if you have any questions
 
-### Context
+### Context and study setup
 
 The study was conducted from the second storey apartment at the intersection of Franklin Ave and Clifton Place in Brooklyn. The interection conner where the apartment is located is commerical with two bars, a taco joint, a live music venue and an active construction site. It is a really noisy conner and inteestingly my home. The laptop was placed on the window sill of my bedroom and recording took place from 9:29pm to 10:29pm on Saturday, 2:29am to 3:29am on Sunday and 7:26am to 8:26am on Sunday.
 
 ![Setup Assignment 3:](laptop_setup.jpeg)
 
-### Result
+### Results
 
 ![Plot 1 Assignment 3:](noiseC.png)
 
