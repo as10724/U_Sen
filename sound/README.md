@@ -28,7 +28,7 @@ You can email me at: cmydlarz@nyu.edu if you have any questions
 
 ### Context
 
-The experiment was conducted from the second storey apartment at the intersection of Franklin Ave and Clifton Place in Brooklyn. The interection is commerical with two bars, a taco joint, a live music venue and an active construction site. It is a really noisy conner and my home. The laptop was placed on the window sill of my bedroom and recording took place from 9:29pm to 10:29pm on Saturday, 2:29am to 3:29am on Sunday and 7:26am to 8:26am on Sunday.
+The study was conducted from the second storey apartment at the intersection of Franklin Ave and Clifton Place in Brooklyn. The interection conner where the apartment is located is commerical with two bars, a taco joint, a live music venue and an active construction site. It is a really noisy conner and inteestingly my home. The laptop was placed on the window sill of my bedroom and recording took place from 9:29pm to 10:29pm on Saturday, 2:29am to 3:29am on Sunday and 7:26am to 8:26am on Sunday.
 
 ![Setup Assignment 3:](laptop_setup.jpeg)
 
