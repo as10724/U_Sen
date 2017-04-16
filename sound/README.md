@@ -36,7 +36,7 @@ The experiment was conducted from the second storey apartment at the intersectio
 
 ![Plot 1 Assignment 3:](noiseC.png)
 
-Figure1. Noise levels are consistantly high in the evening with the taco joint crowd being the major contributor to the noise levels, levels in the night are lesser but still not quiet enough for a decent sleep as the live music venue is operational till 4am. Levels in morning are high but erratic with instances of very sharp instances of nosie mostly a reflective of morning traffic and nature of construction activity.
+Figure1. Noise levels are consistantly high in the evening with the taco joint crowd being the major contributor to the noise levels, the night levels are lesser but still not quiet enough for a decent sleep as the live music venue is operational till 4am. Levels in morning are high but erratic with instances of very sharp nosie mostly a reflective of morning traffic and nature of construction activity.
 
 Individual plots of each time can be found in the ipython notebook Noise_visiualization.ipynb 
 
