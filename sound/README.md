@@ -38,9 +38,12 @@ The experiment was conducted from the second storey apartment at the intersectio
 
 Figure1. Noise levels are consistantly high in the evening with the taco joint crowd being the major contributor to the noise levels, the night levels are lesser but still not quiet enough for a decent sleep as the live music venue is operational till 4am. Levels in morning are high but erratic with instances of very sharp nosie mostly a reflective of morning traffic and nature of construction activity.
 
-Individual plots of each time can be found in the ipython notebook Noise_visiualization.ipynb 
+Individual plots of each time can be found in the ipython notebook Noise_visiualization.ipynb
+
 Evening data is stored as as10724_rms.csv and as10724_decibel.csv
+
 Night data is stored as as10724_rms2.csv and as10724_decibel2.csv
+
 Morning data is stored as as10724_rms3.csv and as10724_decibel3.csv
 
 #### Note: In absence of caliberation for this study, the lowest recorded rms during the study was used as reference for calculating decibels from recorded rms.
