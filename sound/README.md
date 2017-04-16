@@ -28,14 +28,16 @@ You can email me at: cmydlarz@nyu.edu if you have any questions
 
 ### Context
 
-The experiment was conducted from the second storey apartment at the intersection of Franklin Ave and Clifton Place in Brooklyn. The interection is commerical with two bars, a taco joint and a live music venue. It is a really noisy conner and my home. The laptop was placed on the window sill of my bedroom and recording took place from 9:30pm to 10:30pm on Saturday.
+The experiment was conducted from the second storey apartment at the intersection of Franklin Ave and Clifton Place in Brooklyn. The interection is commerical with two bars, a taco joint, a live music venue and an active construction site. It is a really noisy conner and my home. The laptop was placed on the window sill of my bedroom and recording took place from 9:29pm to 10:29pm on Saturday, 2:29am to 3:29am on Sunday and 7:26am to 8:26am on Sunday.
 
 ![Setup Assignment 3:](laptop_setup.jpeg)
 
 ### Result
 
-![Plot 1 Assignment 3:](noise1.png)
-![Plot 2 Assignment 3:](noise2.png)
+![Plot 1 Assignment 3:](noiseC.png)
 
+Figure1. Noise levels are consistantly high in the evening with the taco joint crowd being the major contributor to the noise levels, levels in the night are lesser but still not quiet enough for a decent sleep as the live music venue is operational till 4am. Levels in morning are high but erratic with instances of very sharp instances of nosie mostly a reflective of morning traffic and nature of construction activity.
+
+Individual plots of each time can be found in the ipython notebook Noise_visiualization.ipynb 
 
 #### Note: In absence of caliberation for this study, the lowest recorded rms during the study was used as reference for calculating decibels from recorded rms.

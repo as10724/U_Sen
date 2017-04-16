@@ -165,7 +165,7 @@ wavefile.close()
 
 #write a csv
 record_a.columns = [['Time', 'Time2', 'RMS']]
-record_a.to_csv('as10724_rms.csv')
+record_a.to_csv('as10724_rms3.csv')
 
 #aggregate levels_df to second level
 record_a.index = pd.to_datetime(record_a.Time)
@@ -177,4 +177,4 @@ p_0 = min(record_a.RMS) #Setting lowest recorded sound level as reference
 decibels['decibels'] = 20 * np.log10(decibels.RMS / p_0)
 
 #output to csv
-decibels.to_csv('as10724_decibel.csv')
+decibels.to_csv('as10724_decibel3.csv')
